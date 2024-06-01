@@ -1,4 +1,3 @@
-[Yesterday 3:42 PM] ALVAREZ VALIENTE, MIGUEL ALBERTO
 import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
